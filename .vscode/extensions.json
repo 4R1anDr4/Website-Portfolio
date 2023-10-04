@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "formulahendry.auto-rename-tag",
+        "ms-vscode.cpptools-themes",
+        "zignd.html-css-class-completion",
+        "ms-vscode.live-server",
+        "techer.open-in-browser",
+        "pranaygp.vscode-css-peek"
+    ]
+}
